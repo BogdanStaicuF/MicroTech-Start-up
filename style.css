@@ -15,6 +15,18 @@ html{
   height: 100%;
 }
 
+h1{
+  font-size: 80px;
+  font-weight: 700;
+}
+
+.paragraph{
+  color: white;
+  font-weight: 300;
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+
 .buffer{
   height: 9rem;
 }
